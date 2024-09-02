@@ -269,12 +269,12 @@ body {
 
 .card-button {
   display: inline-block;
-  padding: 10px 15px;
+  padding: 10px 90px;
   font-size: 14px;
   color: #fff;
-  background-color: #00a51b;
+  background-color: #00ad1d8e;
   text-decoration: none;
-  border-radius: 20px;
+  border-radius: 10px;
   transition: background-color 0.3s;
 }
 
