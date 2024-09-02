@@ -13,5 +13,5 @@ $(".menu > ul > li").click(function (e) {
 
 $(".menu-btn").click(function () {
   $(".sidebar").toggleClass("active");
-  $(".hideNotification").fadeToggle(100); // Smoothly toggle the hideNotification element with a 300ms duration
+  $(".hideNotification").fadeToggle(100); 
 });
